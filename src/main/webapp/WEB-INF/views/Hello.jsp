@@ -4,6 +4,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>welcome To Spring MVC!!!</h2>
+<h2>I hate Shravan!!!</h2>
 </body>
 </html>
